@@ -30,6 +30,6 @@
             }
             .clock > .time:nth-of-type(3),
             .clock > .time:nth-of-type(4){
-                margin-bottom: 0;
+                margin-bottom: 200px;
             }
         }
