@@ -148,3 +148,6 @@
         text-decoration: none;
 
     }
+    .content form > .btn{
+        float: right;
+    }
