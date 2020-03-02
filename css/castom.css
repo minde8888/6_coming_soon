@@ -118,15 +118,6 @@
     margin: 0 5%;
     margin-bottom: 10px;
 }
-.hero-row > form > input {
-    background-color: transparent;
-    width: 100%;
-    color: white;
-    border-bottom: solid 1px white;
-    
-}
-.hero-row input::placeholder{
-    color: white;
 }
 .hero-row > .mouse {
     display: inline-block;
